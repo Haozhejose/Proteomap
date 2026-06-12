@@ -2,7 +2,7 @@
 
 This project is based on the paper "Multi-Objective Molecule Generation using Interpretable Substructures" (Wengong Jin et al., ICML 2020), modified for LNP (Lipid Nanoparticles) molecule generation with reinforcement learning.
 
-## Key Modifications
+## Key characteristics
 - Added target efficiency prediction.
 - Integrated protein corona features using Mordred descriptors and similarity matching.
 - Fine-tuned on LNP dataset (3204 molecules) starting from ChemBL pre-trained model.
